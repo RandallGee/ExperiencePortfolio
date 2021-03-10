@@ -43,7 +43,7 @@ h1 {
   height: 30px;
   left: 315px;
   top: 470px;
-  background-image: url("Asset 1.svg");
+  background-image: url("assets/Asset 1.svg");
   background-repeat: no-repeat;
 }
 #boxtwo {
@@ -52,7 +52,7 @@ h1 {
   height: 30px;
   left: 290px;
   top: 520px;
-  background-image: url("Asset 2.svg");
+  background-image: url("assets/Asset 2.svg");
   background-repeat: no-repeat;
 }
 #boxthree {
@@ -61,7 +61,7 @@ h1 {
   height: 30px;
   left: 270px;
   top: 570px;
-  background-image: url("Asset 3.svg");
+  background-image: url("assets/Asset 3.svg");
   background-repeat: no-repeat;
 }
 #boxfour {
@@ -70,7 +70,7 @@ h1 {
   height: 30px;
   left: 245px;
   top: 620px;
-  background-image: url("Asset 4.svg");
+  background-image: url("assets/Asset 4.svg");
   background-repeat: no-repeat;
 }
 #boxfive{
@@ -79,7 +79,7 @@ h1 {
   height: 30px;
   left: 220px;
   top: 670px;
-  background-image: url("Asset 5.svg");
+  background-image: url("assets/Asset 5.svg");
   background-repeat: no-repeat;
 }
 #jump1 {
